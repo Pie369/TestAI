@@ -5,7 +5,7 @@
 
 ```bash
 1. Clone repository
-git clone https://github.com/yourusername/brave-search-ai-agent.git
+git clone https://github.com/Pie369/brave-search-ai-agent.git
 cd brave-search-ai-agent
 
 2. Configure environment variables
