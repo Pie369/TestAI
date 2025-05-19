@@ -7,7 +7,7 @@
 1. Clone repository
 ```bash
 git clone https://github.com/Pie369/TestAI.git
-cd brave-search-ai-agent
+cd TestAI
 ```
 
 2. Configure environment variables
